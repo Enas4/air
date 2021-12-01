@@ -10,7 +10,6 @@ header{
 .website-header{
      display: flex;
      align-items: center;
-     border: 2px solid red;
      padding: 20px;
      height: 80px;
 }
